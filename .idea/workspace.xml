@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d23cd1f6-9f4f-4db1-b510-e38591ea9061" name="Default Changelist" comment="" />
+    <list default="true" id="d23cd1f6-9f4f-4db1-b510-e38591ea9061" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ColorManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameCanvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainCircles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainCircles.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\user\Documents\Programming\Balls" />
+        <option value="C:\Users\user\Documents\Programming\Balls\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1a50FK49XRHl19xyJFrBqMLzJbP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,31 +87,43 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW. Lesson 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW. Lesson 1." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="263" width="261" height="201" key="Github.ShareDialog" timestamp="1586074082202">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1586077831795">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="564" y="263" width="261" height="201" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1586074082202" />
-    <state x="477" y="73" key="Github.UntrackedFilesDialog" timestamp="1586074135785">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586077831795" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586074519933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="477" y="73" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586074135784" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1586048596089">
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586074519933" />
+    <state x="564" y="263" width="261" height="201" key="Github.ShareDialog" timestamp="1586074734768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586048596089" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1586048596089">
+    <state x="564" y="263" width="261" height="201" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1586074734768" />
+    <state x="477" y="73" key="Github.UntrackedFilesDialog" timestamp="1586074397815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586048596089" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1586048596089">
+    <state x="477" y="73" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586074397815" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1586078225151">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586048596089" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1586048596089">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586078225151" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1586078225150">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586048596089" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586078225150" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1586078225150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586078225150" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1586078225151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586078225151" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586073618295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
