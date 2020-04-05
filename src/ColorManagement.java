@@ -8,13 +8,15 @@ public class ColorManagement {
     private int baseG = (int) (Math.random() * 256);
     private int baseB = (int) (Math.random() * 256);
 
-    private int vR = (int) (Math.random() * 11);
-    private int vG = (int) (Math.random() * 11);
-    private int vB = (int) (Math.random() * 11);
+    private float vR = (float) Math.random() * 10.0f;
+    private float vG = (float) Math.random() * 10.0f;
+    private float vB = (float) Math.random() * 10.0f;
 
     private int r, g, b;
 
-    private Color color=new Color(baseR,baseG,baseB);
+    private float summVR, summVG, summVB;
+
+    private Color color = new Color(baseR, baseG, baseB);
 
     ColorManagement(boolean variableColor) {
         this.variableColor = variableColor;
@@ -26,15 +28,45 @@ public class ColorManagement {
 
     void update(GameCanvas canvas, float deltaTime) {
         if (variableColor) {
-            r = (baseR + vR * (int) deltaTime) % MAX_COLOR;
-            g = (baseG + vG * (int) deltaTime) % MAX_COLOR;
-            b = (baseB + vB * (int) deltaTime) % MAX_COLOR;
+            summVR += vR;
+            summVG += vG;
+            summVB += vB;
+
+            r = baseR + (int) (summVR * deltaTime);
+            if (r > 255) {
+                r = 255;
+                vR = -vR;
+            }
+            if (r < 0) {
+                r = 0;
+                vR = -vR;
+            }
+
+            g = baseG + (int) (summVG * deltaTime);
+            if (g > 255) {
+                g = 255;
+                vG = -vG;
+            }
+            if (g < 0) {
+                g = 0;
+                vG = -vG;
+            }
+            b = baseB + (int) (summVB * deltaTime);
+            if (b > 255) {
+                b = 255;
+                vB = -vB;
+            }
+            if (b < 0) {
+                b = 0;
+                vB = -vB;
+            }
 
             color = new Color(r, g, b);
+            System.out.println(deltaTime + "\tred\t" + r + "\tgreen\t" + g + "\tblue\t" + b);
         }
     }
 
-    Color render(){
+    Color render() {
         return color;
     }
 }
