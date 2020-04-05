@@ -15,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HomeWork1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -90,13 +95,29 @@
       <option name="project" value="LOCAL" />
       <updated>1586079581394</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW. Lesson 1. Start">
+      <created>1586107998588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586107998588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW. Lesson 1. A color of the panel changed.">
+      <created>1586108347214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586108347214</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW. Lesson 1." />
     <MESSAGE value="HW. Lesson 1. Изменение цвета пока не работает" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW. Lesson 1. Изменение цвета пока не работает" />
+    <MESSAGE value="HW. Lesson 1. Start" />
+    <MESSAGE value="HW. Lesson 1. A color of the panel changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW. Lesson 1. A color of the panel changed." />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1586077831795">
@@ -107,10 +128,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586107864495" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586107738459">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586108345845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586107738459" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586108345845" />
     <state x="564" y="263" width="261" height="201" key="Github.ShareDialog" timestamp="1586074734768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -135,9 +156,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586107786794" />
+    <state x="395" y="82" key="MultipleFileMergeDialog" timestamp="1586108446927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="82" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586108446927" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1586108374775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586108374774" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586073618295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586073618295" />
+    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586108438821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1586108438821" />
   </component>
 </project>
