@@ -6,8 +6,9 @@ public class MainCircles extends JFrame {
     private static final int POS_Y = 200;
     private static final int WINDOW_WIDTH = 800;
     private static final int WINDOW_HEIGHT = 600;
+    private int quantity = 10;
 
-    Sprite[] sprites = new Sprite[10];
+    Sprite[] sprites = new Sprite[quantity];
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {

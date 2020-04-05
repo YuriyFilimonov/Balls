@@ -2,7 +2,6 @@ import java.awt.*;
 
 public class ColorManagement {
     private boolean variableColor;
-    private final int MAX_COLOR = 255;
 
     private int baseR = (int) (Math.random() * 256);
     private int baseG = (int) (Math.random() * 256);
