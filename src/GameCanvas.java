@@ -3,22 +3,12 @@ import java.awt.*;
 
 public class GameCanvas extends JPanel {
     MainCircles listener;
-    ColorManagement colorManagement= new ColorManagement(true);
     long lastFrameTime;
     float deltaTime;
 
     GameCanvas(MainCircles listener) {
         this.listener = listener;
-        this.setBackground(colorManagement.getColor());
         lastFrameTime = System.nanoTime();
-    }
-
-    void update(){
-        colorManagement.update(this,deltaTime);
-    }
-
-    void render(){
-        this.setBackground(colorManagement.render());
     }
 
      @Override
