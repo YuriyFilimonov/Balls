@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d23cd1f6-9f4f-4db1-b510-e38591ea9061" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ColorManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColorManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainCircles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainCircles.java" afterDir="false" />
-    </list>
+    <list default="true" id="d23cd1f6-9f4f-4db1-b510-e38591ea9061" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +39,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Programming/src/Lesson8/Examples/Example1.java" />
   </component>
   <component name="RunManager" selected="Application.MainCircles">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,6 +59,9 @@
       <list>
         <item itemvalue="Application.MainCircles" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainCircles" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainCircles" />
       </list>
     </recent_temporary>
   </component>
@@ -97,12 +95,12 @@
       <option name="project" value="LOCAL" />
       <updated>1586079581394</updated>
     </task>
-    <task id="LOCAL-00002" summary="HW. Lesson 1. Background.">
-      <created>1586093735740</created>
+    <task id="LOCAL-00002" summary="HW. Lesson 1. Start">
+      <created>1586107998588</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1586093735740</updated>
+      <updated>1586107998588</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -110,22 +108,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW. Lesson 1." />
     <MESSAGE value="HW. Lesson 1. Изменение цвета пока не работает" />
-    <MESSAGE value="HW. Lesson 1. Background." />
-    <option name="LAST_COMMIT_MESSAGE" value="HW. Lesson 1. Background." />
+    <MESSAGE value="HW. Lesson 1. Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW. Lesson 1. Start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1586077831795">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586077831795" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586106845290">
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586107864495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586106845290" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1586103009576">
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586107864495" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586107997221">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586103009576" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586107997221" />
     <state x="564" y="263" width="261" height="201" key="Github.ShareDialog" timestamp="1586074734768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -134,29 +132,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="477" y="73" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586074397815" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1586094156809">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1586107786794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586094156809" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1586094156808">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586107786794" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1586107786794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586094156808" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1586094156808">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586107786794" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1586107786794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586094156808" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1586094156808">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586107786794" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1586107786794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586094156808" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1586093827966">
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586107786794" />
+    <state x="395" y="82" key="MultipleFileMergeDialog" timestamp="1586108108055">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586093827966" />
+    <state x="395" y="82" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586108108055" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1586108007641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586108007641" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586073618295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586073618295" />
+    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586108099941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1586108099941" />
   </component>
 </project>
