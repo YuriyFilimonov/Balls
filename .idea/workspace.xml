@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="HomeWork1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,29 +118,45 @@
       <option name="project" value="LOCAL" />
       <updated>1586108475053</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW. Lesson 1.">
+      <created>1586116966441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586116966441</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HW. Lesson 1. Выполнены все задания.">
+      <created>1586123258637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586123258637</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW. Lesson 1." />
+    <option name="RELOAD_CONTEXT" value="false" />
     <MESSAGE value="HW. Lesson 1. Изменение цвета пока не работает" />
     <MESSAGE value="HW. Lesson 1. Start" />
     <MESSAGE value="HW. Lesson 1. A color of the panel changed." />
-    <option name="LAST_COMMIT_MESSAGE" value="HW. Lesson 1. A color of the panel changed." />
+    <MESSAGE value="HW. Lesson 1." />
+    <MESSAGE value="HW. Lesson 1. Выполнены все задания." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW. Lesson 1. Выполнены все задания." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1586077831795">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1586118634315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586077831795" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586118634315" />
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586107864495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586107864495" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586108473800">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586123257196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586108473800" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586123257196" />
     <state x="564" y="263" width="261" height="201" key="Github.ShareDialog" timestamp="1586074734768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -149,37 +165,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="477" y="73" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586074397815" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1586108793375">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1586123532003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586108793375" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1586108793374">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586123532003" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1586123532003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586108793374" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1586108793374">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586123532003" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1586123532003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586108793374" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1586108793374">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586123532003" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1586123532003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586108793374" />
-    <state x="395" y="82" key="MultipleFileMergeDialog" timestamp="1586108979969">
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586123532003" />
+    <state x="395" y="82" key="MultipleFileMergeDialog" timestamp="1586123649216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="395" y="82" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586108979969" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1586108493111">
+    <state x="395" y="82" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586123649216" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1586123263249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586108493111" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586123263249" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586073618295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586073618295" />
-    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586108975052">
+    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586123644788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1586108975052" />
+    <state x="464" y="81" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1586123644788" />
   </component>
 </project>
